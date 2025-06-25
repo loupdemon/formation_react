@@ -1,0 +1,54 @@
+{
+  "series": [
+    {
+      "url": "https://www.avenuedelabrique.com/img/produits/75810/thumbs/75810-la-maison-dans-le-monde-a-l-envers-3-1557903122_1000x0.jpg",
+      "titre": "Stranger Things",
+      "description": [
+        "Un groupe d'adolescents se lance dans une quête pour retrouver leur ami disparu dans une petite ville des années 80.",
+        "Ils découvrent un monde parallèle, le 'Upside Down', et rencontrent une étrange fille aux pouvoirs surnaturels.",
+        "La série mêle science-fiction, horreur et aventure, tout en explorant des thèmes de l'amitié et du courage."
+      ],
+      "note": 4.8
+    },
+    {
+      "url": "https://i0.wp.com/www.parentgalactique.fr/wp-content/uploads/2014/04/Groupshot_small_1024x1024.jpg",
+      "titre": "Game of Thrones",
+      "description": [
+        "Dans un royaume en guerre, plusieurs familles nobles se battent pour le contrôle du trône de fer.",
+        "Entre trahisons, batailles épiques et créatures mythologiques, chaque décision peut changer le cours de l'histoire.",
+        "La série est célèbre pour ses intrigues complexes et ses personnages qui oscillent entre le bien et le mal."
+      ],
+      "note": 4.7
+    },
+    {
+      "url": "https://cdn.toypro.com/media/cache/my_thumb_big_list/uploads/images/news/844.jpg",
+      "titre": "Breaking Bad",
+      "description": [
+        "Walter White, un professeur de chimie, se transforme en un baron de la drogue pour subvenir aux besoins de sa famille.",
+        "Au fil des saisons, il se laisse engloutir par le monde de la criminalité, tout en luttant avec sa propre conscience.",
+        "La série explore la dégradation morale d'un homme ordinaire face à la tentation et aux circonstances."
+      ],
+      "note": 5.0
+    },
+    {
+      "url": "https://i.ebayimg.com/images/g/WRoAAOSwCwJfUEuv/s-l1200.jpg",
+      "titre": "Friends",
+      "description": [
+        "Un groupe de six amis navigue à travers les hauts et les bas de la vie à New York.",
+        "Entre rires, disputes et moments de complicité, ils forment une famille choisie au-delà des liens du sang.",
+        "La série est un classique de la comédie, offrant des moments mémorables et des personnages attachants."
+      ],
+      "note": 4.9
+    },
+    {
+      "url": "https://fr.web.img5.acsta.net/r_1280_720/medias/nmedia/19/01/87/61/20653579.jpg",
+      "titre": "Sherlock",
+      "description": [
+        "Sherlock Holmes, un détective brillant et excentrique, résout des enquêtes complexes avec l'aide de son ami, le Dr Watson.",
+        "La série modernise les aventures du détective emblématique tout en conservant l'esprit des œuvres de Conan Doyle.",
+        "Les intrigues fascinantes et la dynamique entre les personnages rendent cette série incontournable pour les fans de mystères."
+      ],
+      "note": 4.6
+    }
+  ]
+}
